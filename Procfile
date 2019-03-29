@@ -1,1 +1,1 @@
-worker: C:\Users\luisp\OneDrive\Desktop\modmailbot-master
+worker node bot.js
